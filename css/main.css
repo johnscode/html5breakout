@@ -96,9 +96,17 @@ textarea {
    ========================================================================== */
 
 
+p.game-header {
+    margin: 8px;
+    text-align: center;
+}
 
-
-
+.game-container {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
 
 
 
